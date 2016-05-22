@@ -3,6 +3,9 @@ Code created for Back-end challenge: Meal Nutrition API.
 First, please install redis for use the complete API:
 http://redis.io/topics/quickstart
 
+Second, install depencies with composer:
+php composer.phar install
+
 Root Path: http://localhost/meal_nutrition/web
 
 I created some examples of use API. We have some files for it:
