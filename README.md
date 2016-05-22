@@ -4,6 +4,7 @@ First, please install redis for use the complete API:
 http://redis.io/topics/quickstart
 
 Second, install depencies with composer:
+curl -sS https://getcomposer.org/installer | php
 php composer.phar install
 
 Root Path: http://localhost/meal_nutrition/web
